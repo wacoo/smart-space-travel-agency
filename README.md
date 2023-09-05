@@ -30,7 +30,7 @@ After you're finished please remove all the comments and instructions!
   <!-- <img src="./src/images/s_logo.png" alt="logo" width="140"  height="auto" /> -->
   <br/>
 
-  <h3><b>Book Store</b></h3>
+  <h3><b>Smart Space Travel Agency</b></h3>
 
 </div>
 
@@ -56,34 +56,39 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION  -->
 
-# 📖 Book Store <a name="about-project"></a>
+# 📖 Smart Space Travel Agency <a name="about-project"></a>
 
-Welcome to the extraordinary world of our upgraded book store app, where the power of React brings books and authors to life. Immerse yourself in a captivating experience that effortlessly combines the joy of browsing with the convenience of digital technology.
+Smart: Your Gateway to Space Exploration and Commercial Ventures
 
-As you enter the app, a mesmerizing display unfolds before your eyes, presenting a meticulously organized collection of books and their esteemed authors. Each entry invites you to explore the captivating worlds that lie within their pages.
+Smart is a cutting-edge React-based app that unlocks the wonders of space exploration and commercial opportunities. Seamlessly blending scientific research and commercial endeavors, Smart revolutionizes the way we engage with space.
 
-With a simple touch of a button, you have the power to shape your own literary universe. Select any book, and with a graceful click, watch it disappear as if by magic. Deleting a book has never been more satisfying and effortless.
+With its sleek and intuitive interface, powered by React technology, Smart provides a seamless user experience, allowing easy navigation and interaction. Discover groundbreaking scientific research missions as Smart facilitates collaborations between scientists, research institutions, and astronauts. From studying microgravity effects to unraveling celestial mysteries, the app empowers scientific discoveries that reshape our understanding of the universe.
 
-But fear not, for the app's shelves are always replenished with new discoveries waiting to be made. Scroll through the list of all books, where a treasure trove of titles and authors awaits your eager gaze. Lose yourself in the enchanting descriptions and captivating cover art that adorn each entry.
+Smart also serves as a launchpad for commercial activities in space, offering tools and resources for satellite deployment, space manufacturing, and resource extraction. Seamlessly integrated APIs provide real-time data updates and streamline operations, ensuring businesses thrive in the new frontier.
 
-And should you wish to add your own tale to this digital realm, our app provides you with a gateway to creativity. With a few simple inputs, you can bring a new book into existence, contributing to the ever-growing tapestry of literary wonders.
+Looking ahead, Smart envisions a thriving space tourism industry. The app offers immersive experiences, enabling users to book stays at luxurious space hotels and enjoy breathtaking views of Earth. Additionally, Smart is actively involved in pioneering efforts towards space colonization, developing innovative solutions for sustainable space habitats.
 
-Join us in this extraordinary journey where the magic of React breathes life into books, authors, and the boundless possibilities of the written word. Explore, delete, discover, and create as you embrace the seamless blend of technology and literature in our remarkable book store app.
+Join Smart today and embark on an extraordinary journey of space exploration, scientific breakthroughs, and commercial ventures, as we redefine the possibilities of our cosmic frontier.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 - HTML/CSS/JS/JSX
-- React
+- React/Redux/React-Redux/Router
 
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-- Add new books
-- List existing books and their authors
-- Remove individual books
-- Navigate between different menus
+- Responsive and Intuitive User Interface
+- Seamless Navigation
+- Real-time Data Updates
+- Interactive Visualizations
+- Rocket Selection
+- Mission Exploration
+- Booking and Reservation
+- Flight Management
+- Flight Cancellation
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- GETTING STARTED -->
@@ -106,9 +111,9 @@ Example command:
 
 ### Setup
 Clone the repository to desired directory on local computer.
-> `git clone https://github.com/wacoo/smart-math-magicians-react`
+> `git clone https://github.com/wacoo/smart-space-travel-agency`
 
-> `cd smart-math-magicians-react`
+> `cd smart-space-travel-agency`
 
 > `npm install`
 
@@ -124,10 +129,11 @@ Clone the repository to desired directory on local computer.
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-- **Enhanced Functionality**: Introduce additional book store functions.
-- **Customization Options**: Provide users with the ability to customize the interface according to their preferences, including themes, color schemes, and layout options.
-- **Interactive Learning Resources**: Incorporate interactive tutorials, step-by-step problem-solving guides, and educational resources.
+- **Enhanced User Experience**: Smart is committed to continuously improving the user experience of our React-based app. We will invest in user research and feedback to implement new features, streamline navigation, and optimize performance, ensuring a seamless and delightful experience for all users.
+- **Space Education and Outreach**: We recognize the importance of education and public outreach in inspiring the next generation of space enthusiasts. Smart plans to expand its offerings by incorporating educational content, interactive lessons, and engaging experiences that promote scientific literacy and foster a passion for space exploration.
+- **Advanced Data Analytics**: Leveraging the power of React and data analytics, Smart aims to provide users with advanced insights and visualizations of space-related data. Through machine learning algorithms and predictive analytics, we will offer personalized recommendations, trend analysis, and data-driven decision-making tools for researchers, businesses, and space enthusiasts.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- CONTRIBUTING -->
 
